@@ -16,6 +16,10 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
  * 2. Remove the margin in Firefox and Safari.
  */
 
+h1 {
+  font-family: 'Special Elite', cursive;
+}
+
 button,
 input,
 optgroup,
