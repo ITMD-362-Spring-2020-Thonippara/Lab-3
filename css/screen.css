@@ -197,6 +197,8 @@ html {
   line-height: 1.182em; /* 26px / ~ 120% */
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
+  background-color: rgb(22, 21, 20);
+   
 }
 
 label {
@@ -206,12 +208,14 @@ label {
 h1 {
   font-family: 'Special Elite', cursive;
   font-size: 3em;
+  color: rgb(255, 255, 255);
 }
 
 p, label {
   font-family: 'Oswald', sans-serif;
   font-weight: 400;
   font-size 2em;
+  color: rgb(151, 149, 146);
 }
 
 /* ===== LAYOUT STYLES ====== */
